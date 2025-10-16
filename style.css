@@ -113,6 +113,7 @@ hr {
 }
 
 #comma{
+    background: var(--comma-background);
     background-size: cover;
 }
 
